@@ -1,0 +1,16 @@
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+}
+
+form {
+    padding: 20px;
+    width:500px;
+}
+
+.regis {
+    width: 500px;
+}
